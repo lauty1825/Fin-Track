@@ -1,0 +1,16 @@
+#adminCalendar {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.card h4 {
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+#tablaTurnosAdmin td,
+#tablaTurnosAdmin th {
+    vertical-align: middle;
+}
